@@ -1,0 +1,7 @@
+body{margin:0;background:#F2E8D5;color:#4A3B2E;font-family:"Hiragino Maru Gothic ProN","Hiragino Sans","Noto Sans JP",sans-serif;line-height:1.8}
+main{max-width:720px;margin:0 auto;padding:32px max(18px,env(safe-area-inset-left)) 48px}
+h1{font-size:1.5rem;color:#5A3F2B;margin:0 0 4px}h2{font-size:1.1rem;color:#5A3F2B;margin:28px 0 6px}
+.date{font-size:.85rem;color:#806C54;margin:0 0 20px}
+section{background:#FFFCF5;border:1.5px solid #E8D9BD;border-radius:18px;padding:18px 20px;margin:14px 0}
+table{width:100%;border-collapse:collapse}th,td{text-align:left;vertical-align:top;padding:10px 8px;border-bottom:1px dashed #D9C8A7;font-size:.95rem}th{width:34%;color:#6E5A45;font-weight:700}
+a{color:#B23E35}nav{font-size:.9rem;margin-top:28px}nav a{margin-right:14px}
